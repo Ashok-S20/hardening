@@ -663,4 +663,4 @@ https://github.com/konstruktoid/hardening/issues/[submit a new issue],
 improve the code by https://github.com/konstruktoid/hardening/pulls[creating a pull request],
 or by https://github.com/sponsors/konstruktoid[sponsoring this project].
 
-Logo by https://github.com/reallinfo[reallinfo].
+Logo by https://github.com/reallinfo[reallinfo].].
